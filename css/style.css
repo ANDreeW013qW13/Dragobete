@@ -1,0 +1,24 @@
+body {
+    background-color: crimson;
+    color: black;
+    background: linear-gradient(#ffeef95d, #ffeef95d), url("../images/fundal.jpg");
+}
+.c1 {
+    margin-left: 40px;
+    margin-right: 60px;
+}
+p {
+    font-size: larger;
+}
+
+hr {
+    margin-left: 40px;
+    margin-right: 60px;
+    border-color: black;
+}
+.c2 {
+    margin-left: 150px;
+}
+pre {
+    margin-left: 40px;
+}
